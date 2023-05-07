@@ -32,7 +32,7 @@
     "ajv": "^6.10.0",
     "cordova": "^8.1.2",
     "cordova-android": "^7.1.4",
-    "cordova-browser": "^5.0.4",
+    "cordova-browser": "^6.0.0",
     "cordova-ios": "^4.5.5",
     "cordova-plugin-appcenter-analytics": "^0.3.5",
     "cordova-plugin-appcenter-crashes": "^0.3.5",
